@@ -1,0 +1,952 @@
+Uri: http://tantek.com/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-4.htm
+Content Type: text/html
+
+Uri: http://www.w3.org/TR/html401/struct/global.html
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\TR\html401\struct\global.html
+Content Type: text/html
+
+Uri: http://www.w3.org/TR/html401/struct/links.html
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\TR\html401\struct\links.html
+Content Type: text/html
+
+Uri: https://af.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-8.htm
+Content Type: text/html
+
+Uri: https://am.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-9.htm
+Content Type: text/html
+
+Uri: https://ar.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-11.htm
+Content Type: text/html
+
+Uri: https://arg.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-10.htm
+Content Type: text/html
+
+Uri: https://as.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-13.htm
+Content Type: text/html
+
+Uri: https://az-tr.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-15.htm
+Content Type: text/html
+
+Uri: https://az.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-14.htm
+Content Type: text/html
+
+Uri: https://bal.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-16.htm
+Content Type: text/html
+
+Uri: https://bel.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-17.htm
+Content Type: text/html
+
+Uri: https://bg.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-18.htm
+Content Type: text/html
+
+Uri: https://bho.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-19.htm
+Content Type: text/html
+
+Uri: https://bn-in.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-21.htm
+Content Type: text/html
+
+Uri: https://bn.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-20.htm
+Content Type: text/html
+
+Uri: https://bo.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-22.htm
+Content Type: text/html
+
+Uri: https://bre.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-23.htm
+Content Type: text/html
+
+Uri: https://brx.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-24.htm
+Content Type: text/html
+
+Uri: https://bs.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-25.htm
+Content Type: text/html
+
+Uri: https://ca.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-26.htm
+Content Type: text/html
+
+Uri: https://cdnjs.cloudflare.com/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-2.htm
+Content Type: text/html
+
+Uri: https://cdnjs.cloudflare.com/cf.core.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\cf.core.css
+Content Type: text/css
+
+Uri: https://cdnjs.com/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-6.htm
+Content Type: text/html
+
+Uri: https://ceb.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-27.htm
+Content Type: text/html
+
+Uri: https://cl.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-47.htm
+Content Type: text/html
+
+Uri: https://co.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-28.htm
+Content Type: text/html
+
+Uri: https://creativecommons.org/licenses/by-nd/2.0/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\licenses\by-nd\2.0\index.htm
+Content Type: text/html
+
+Uri: https://cs.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-29.htm
+Content Type: text/html
+
+Uri: https://cy.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-30.htm
+Content Type: text/html
+
+Uri: https://da.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-31.htm
+Content Type: text/html
+
+Uri: https://de-at.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-34.htm
+Content Type: text/html
+
+Uri: https://de-ch.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-32.htm
+Content Type: text/html
+
+Uri: https://de.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-33.htm
+Content Type: text/html
+
+Uri: https://dsb.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-35.htm
+Content Type: text/html
+
+Uri: https://dv.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-36.htm
+Content Type: text/html
+
+Uri: https://dzo.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-37.htm
+Content Type: text/html
+
+Uri: https://el.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-39.htm
+Content Type: text/html
+
+Uri: https://en-au.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-40.htm
+Content Type: text/html
+
+Uri: https://en-ca.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-41.htm
+Content Type: text/html
+
+Uri: https://en-gb.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-42.htm
+Content Type: text/html
+
+Uri: https://en-nz.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-43.htm
+Content Type: text/html
+
+Uri: https://en-za.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-44.htm
+Content Type: text/html
+
+Uri: https://eo.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-45.htm
+Content Type: text/html
+
+Uri: https://es-ar.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-46.htm
+Content Type: text/html
+
+Uri: https://es-co.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-48.htm
+Content Type: text/html
+
+Uri: https://es-cr.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-49.htm
+Content Type: text/html
+
+Uri: https://es-do.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-50.htm
+Content Type: text/html
+
+Uri: https://es-ec.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-51.htm
+Content Type: text/html
+
+Uri: https://es-gt.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-53.htm
+Content Type: text/html
+
+Uri: https://es-hn.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-54.htm
+Content Type: text/html
+
+Uri: https://es-mx.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-55.htm
+Content Type: text/html
+
+Uri: https://es-pr.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-57.htm
+Content Type: text/html
+
+Uri: https://es-uy.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-58.htm
+Content Type: text/html
+
+Uri: https://es.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-52.htm
+Content Type: text/html
+
+Uri: https://et.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-60.htm
+Content Type: text/html
+
+Uri: https://eu.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-61.htm
+Content Type: text/html
+
+Uri: https://ewe.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-38.htm
+Content Type: text/html
+
+Uri: https://fa-af.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-63.htm
+Content Type: text/html
+
+Uri: https://fa.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-62.htm
+Content Type: text/html
+
+Uri: https://fao.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-65.htm
+Content Type: text/html
+
+Uri: https://fi.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-64.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/comments/feed/index.htm
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\comments\feed\index.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.4
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\css
+Content Type: application/octet-stream
+
+Uri: https://flokimetaverse-io.vercel.app/feed/index.htm
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\feed\index.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/index.htm
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-1.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/tokenswap/index.htm
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\tokenswap\index.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/whitepaper/index.htm
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\whitepaper\index.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\bdthemes-element-pack\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-site.css?ver=5.14.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-site.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\bdthemes-element-pack\assets\js\bdt-uikit.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/bdthemes-element-pack/assets/js/element-pack-site.min.js?ver=5.14.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\bdthemes-element-pack\assets\js\element-pack-site.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/vanilla-tilt.min.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\bdthemes-element-pack\assets\vendor\js\vanilla-tilt.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.5.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.9.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.9.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.9.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/css/style.css?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\css\style.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/js/anime.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\js\anime.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/js/jarallax.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\js\jarallax.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/js/jquery.easing.1.3.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/js/magician.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\js\magician.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/js/section-init.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\js\section-init.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/js/TweenMax.min.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\js\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/parallax/assets/js/widget-init.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\parallax\assets\js\widget-init.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/sticky-content/assets/js/init.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\sticky-content\assets\js\init.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/modules/sticky-content/assets/js/jquery.sticky.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\modules\sticky-content\assets\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/widgets/init/assets/css/widget-styles-pro.css?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\widgets\init\assets\css\widget-styles-pro.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/elementskit/widgets/init/assets/js/elementor.js?ver=2.3.7
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\elementskit\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/loftloader-pro/assets/css/loftloader.min.css?ver=2021102002
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\loftloader-pro\assets\css\loftloader.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/loftloader-pro/assets/js/jquery.waitformedias.min.js?ver=2021102002
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\loftloader-pro\assets\js\jquery.waitformedias.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/loftloader-pro/assets/js/loftloader.min.js?ver=2021102002
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\loftloader-pro\assets\js\loftloader.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/marvy-animation-addons-for-elementor-lite/elementor/assets/css/marvy-custom.css?ver=1.6.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\marvy-animation-addons-for-elementor-lite\elementor\assets\css\marvy-custom.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/marvy-animation-addons-for-elementor-lite/elementor/assets/js/custom/marvy-snow-animation.js?ver=1.6.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\marvy-animation-addons-for-elementor-lite\elementor\assets\js\custom\marvy-snow-animation.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/marvy-animation-addons-for-elementor-lite/elementor/assets/js/custom/marvy.ripples.js?ver=1.6.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\marvy-animation-addons-for-elementor-lite\elementor\assets\js\custom\marvy.ripples.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/marvy-animation-addons-for-elementor-lite/elementor/assets/js/custom/marvy.waves.js?ver=1.6.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\marvy-animation-addons-for-elementor-lite\elementor\assets\js\custom\marvy.waves.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/marvy-animation-addons-for-elementor-lite/elementor/assets/js/lib/three.min.js?ver=1.6.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\marvy-animation-addons-for-elementor-lite\elementor\assets\js\lib\three.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/marvy-animation-addons-for-elementor-lite/elementor/assets/js/lib/vanta.waves.min.js?ver=1.6.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\marvy-animation-addons-for-elementor-lite\elementor\assets\js\lib\vanta.waves.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/massive-cryptocurrency-widgets/assets/public/css/jquery.dataTables.min.css?ver=1.10.16
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\massive-cryptocurrency-widgets\assets\public\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/massive-cryptocurrency-widgets/assets/public/css/selectize.custom.css?ver=3.1.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\massive-cryptocurrency-widgets\assets\public\css\selectize.custom.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/massive-cryptocurrency-widgets/assets/public/css/style.css?ver=3.1.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\massive-cryptocurrency-widgets\assets\public\css\style.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/massive-cryptocurrency-widgets/assets/public/js/common.min.js?ver=3.1.8
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\massive-cryptocurrency-widgets\assets\public\js\common.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/massive-cryptocurrency-widgets/assets/public/js/selectize.min.js?ver=0.12.4
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\massive-cryptocurrency-widgets\assets\public\js\selectize.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/massive-cryptocurrency-widgets/assets/public/js/socket.io.js?ver=2.1.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\massive-cryptocurrency-widgets\assets\public\js\socket.io.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/assets/css/font-icons/css/trx-effects-icons.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\assets\css\font-icons\css\trx-effects-icons.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/assets/css/trx-effects.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\assets\css\trx-effects.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/assets/js/curtains/curtains.min.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\assets\js\curtains\curtains.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/assets/js/modernizr/modernizr.min.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\assets\js\modernizr\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/assets/js/trx-effects-utils.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\assets\js\trx-effects-utils.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/assets/js/trx-effects.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\assets\js\trx-effects.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/bg-canvas/bg-canvas.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\bg-canvas\bg-canvas.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/bg-canvas/bg-canvas.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\bg-canvas\bg-canvas.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/bg-slides/bg-slides.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\bg-slides\bg-slides.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/bg-slides/bg-slides.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\bg-slides\bg-slides.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/bg-text/bg-text.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\bg-text\bg-text.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/bg-text/bg-text.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\bg-text\bg-text.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/image-effects/image-effects.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\image-effects\image-effects.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/image-effects/image-effects.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\image-effects\image-effects.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/mouse-helper/mouse-helper.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\mouse-helper\mouse-helper.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/plugins/trx-effects/core/modules/mouse-helper/mouse-helper.js
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\trx-effects\core\modules\mouse-helper\mouse-helper.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/themes/astra/assets/css/minified/main.min.css?ver=3.7.5
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.7.5
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/Artboard-1-1024x1024.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\Artboard-1-1024x1024.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/Artboard-1-150x150.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\Artboard-1-150x150.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/Artboard-1-300x300.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\Artboard-1-300x300.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/Artboard-1-768x768.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\Artboard-1-768x768.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/Artboard-1.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\Artboard-1.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/cropped-Artboard-1-1-1-180x180.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\cropped-Artboard-1-1-1-180x180.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/cropped-Artboard-1-1-1-192x192.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\cropped-Artboard-1-1-1-192x192.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/cropped-Artboard-1-1-1-32x32.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\cropped-Artboard-1-1-1-32x32.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/Game-Of-Squids.otf
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\Game-Of-Squids.otf
+Content Type: font/otf
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/Game-Of-Squids.ttf
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\Game-Of-Squids.ttf
+Content Type: font/ttf
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/logo-svg-Lmdpi-1.svg
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\logo-svg-Lmdpi-1.svg
+Content Type: image/svg+xml
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/logo-svg-Lmdpi.svg
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\logo-svg-Lmdpi.svg
+Content Type: image/svg+xml
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/metaverse-1024x1024.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\metaverse-1024x1024.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/metaverse-150x150.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\metaverse-150x150.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/metaverse-300x300.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\metaverse-300x300.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/metaverse-768x768.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\metaverse-768x768.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/metaverse.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\metaverse.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/mockup2-1-1024x686.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\mockup2-1-1024x686.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/mockup2-1-1536x1029.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\mockup2-1-1536x1029.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/mockup2-1-2048x1372.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\mockup2-1-2048x1372.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/mockup2-1-768x514.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\mockup2-1-768x514.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/mockup2-1.png
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\mockup2-1.png
+Content Type: image/png
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/2021/11/svg-jmdpi.svg
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\2021\11\svg-jmdpi.svg
+Content Type: image/svg+xml
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/astra-addon/astra-addon-61c5ccda766536-02684178.css?ver=3.6.3
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\astra-addon\astra-addon-61c5ccda766536-02684178.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/astra-addon/astra-addon-61c5ccda76b972-56993649.js?ver=3.6.3
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\astra-addon\astra-addon-61c5ccda76b972-56993649.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/astra-addon/astra-addon-dynamic-css-post-11.css?ver=1645410885
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\astra-addon\astra-addon-dynamic-css-post-11.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/astra/astra-theme-dynamic-css-post-11.css?ver=1645410885
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\astra\astra-theme-dynamic-css-post-11.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/elementor/css/global.css?ver=1645367097
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/elementor/css/post-11.css?ver=1645367098
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/elementor/css/post-7.css?ver=1645367095
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1647773134
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\essential-addons-elementor\cb70d11b8.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1647773134
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\uploads\essential-addons-elementor\cb70d11b8.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://flokimetaverse-io.vercel.app/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-includes/js/wp-embed.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://flokimetaverse-io.vercel.app/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://flokimetaverse-io.vercel.app/wp-json/index.htm
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-json\index.htm
+Content Type: text/html
+
+Uri: https://flokimetaverse-io.vercel.app/wp-json/oembed/1.0/embed-1?url=https:%2F%2FMetakyushu_bsc.io%2F&format=xml
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-json\oembed\1.0\embed-1
+Content Type: application/octet-stream
+
+Uri: https://flokimetaverse-io.vercel.app/wp-json/oembed/1.0/embed?url=https:%2F%2FMetakyushu_bsc.io%2F
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-json\oembed\1.0\embed
+Content Type: application/octet-stream
+
+Uri: https://flokimetaverse-io.vercel.app/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-json\wp\v2\pages\11
+Content Type: application/octet-stream
+
+Uri: https://flokimetaverse-io.vercel.app/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\xmlrpc.php
+Content Type: application/x-httpd-php
+
+Uri: https://fon.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-66.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital%2Cwght%400%2C300%3B0%2C400%3B0%2C600%3B1%2C300%3B1%2C400%3B1%2C600&display=swap
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\css2.css
+Content Type: text/css
+
+Uri: https://fr-be.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-67.htm
+Content Type: text/html
+
+Uri: https://fr-ca.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-68.htm
+Content Type: text/html
+
+Uri: https://fr.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-69.htm
+Content Type: text/html
+
+Uri: https://fy.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-70.htm
+Content Type: text/html
+
+Uri: https://ga.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-71.htm
+Content Type: text/html
+
+Uri: https://gax.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-72.htm
+Content Type: text/html
+
+Uri: https://gd.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-73.htm
+Content Type: text/html
+
+Uri: https://github.com/cdnjs/cdnjs/issues
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\cdnjs\cdnjs\issues.html
+Content Type: text/html
+
+Uri: https://github.com/cdnjs/cf-stats/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\cdnjs\cf-stats\index.htm
+Content Type: text/html
+
+Uri: https://gl.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-74.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\xfn\index.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\xfn\11.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/default.css
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\xfn\default.css
+Content Type: text/css
+
+Uri: https://gmpg.org/xfn/faq
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\xfn\faq.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/intro
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\xfn\intro.html
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/thanks
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\xfn\thanks.html
+Content Type: text/html
+
+Uri: https://meyerweb.com/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-5.htm
+Content Type: text/html
+
+Uri: https://pe.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-56.htm
+Content Type: text/html
+
+Uri: https://pirate.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-12.htm
+Content Type: text/html
+
+Uri: https://s.w.org/favicon.ico?2
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://s.w.org/wp-content/themes/pub/wporg-main/css/style.css?ver=1648099116
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\themes\pub\wporg-main\css\style.css
+Content Type: text/css
+
+Uri: https://s.w.org/wp-includes/css/dashicons.min.css?ver=6.0-alpha-52936
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://t.me/Metakyushu_bsc
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\Metakyushu_bsc.html
+Content Type: text/html
+
+Uri: https://twitter.com/kyushuinu
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\kyushuinu.html
+Content Type: text/html
+
+Uri: https://ve.wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-59.htm
+Content Type: text/html
+
+Uri: https://videopress.com/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-7.htm
+Content Type: text/html
+
+Uri: https://w3c.github.io/network-error-logging/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\network-error-logging\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\index-3.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/news/feed/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\news\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://wordpress.org/wp-content/mu-plugins/pub-sync/blocks/global-header-footer/build/style.css?ver=1648001405
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\mu-plugins\pub-sync\blocks\global-header-footer\build\style.css
+Content Type: text/css
+
+Uri: https://wordpress.org/wp-content/mu-plugins/pub-sync/global-fonts/style.css?ver=1645722414
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\mu-plugins\pub-sync\global-fonts\style.css
+Content Type: text/css
+
+Uri: https://wordpress.org/wp-content/plugins/gutenberg/build/block-library/style.css?ver=12.8.1
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-content\plugins\gutenberg\build\block-library\style.css
+Content Type: text/css
+
+Uri: https://wordpress.org/wp-includes/css/admin-bar.min.css?ver=6.0-alpha-52936
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\css\admin-bar.min.css
+Content Type: text/css
+
+Uri: https://wordpress.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://wordpress.org/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0-alpha-52936
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://www.cloudflare.com/favicon.ico
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.cloudflare.com/privacypolicy/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\privacypolicy\index.htm
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/trust-hub/abuse-approach/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\trust-hub\abuse-approach\index.htm
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/website-terms/
+File Name: C:\Downloaded Web Sites\flokimetaverse-io.vercel.app\website-terms\index.htm
+Content Type: text/html
+

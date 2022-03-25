@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @vercel-cli
+
+PATH: 
+  C:\Python310\Scripts\;C:\ProgramData\chocolatey\lib\chocolatey\;C:\Program Files\Git\cmd;C:\Program Files (x86)\geckodriver.exe;C:\php\;C:\Users\Noahm\.gradle;C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.7_3.7.2544.0_x64__qbz5n2kfra8p0\Lib\site-packages\;C:\Python310;C:\Gradle\gradle-7.1\bin;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Users\Noahm\AppData\Roaming\Code;C:\Program Files (x86)\Yarn\bin;C:\Users\noahm}\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\dotnet\;C:\Windows\SysWow64\;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PowerShell\7-preview\preview;C:\Users\noahm\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@vercel-cli: Request "https://registry.yarnpkg.com/@vercel-cli" returned a 405
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66105:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140748:22)
+      at Request.emit (node:events:390:28)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141720:10)
+      at Request.emit (node:events:390:28)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141642:12)
+      at Object.onceWrapper (node:events:509:28)
+      at IncomingMessage.emit (node:events:402:35)
+      at endReadableNT (node:internal/streams/readable:1343:12)
+      at processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
